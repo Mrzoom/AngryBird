@@ -2,7 +2,7 @@
 //  main.m
 //  AngryBird
 //
-//  Created by zoom on 14-8-22.
+//  Created by zoom on 14-7-12.
 //  Copyright (c) 2014年 Jiance Tong. All rights reserved.
 //
 
